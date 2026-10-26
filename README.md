@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date: 26 October 2026
+# Date: 27 October 2026
 ## Reference Number: 26017233
 ## Name: K Vedhika
 
@@ -105,6 +105,7 @@ Possible verification factors include:
 Important: Automatic approval should only provide preliminary verification where appropriate; final onboarding rules should follow the FPO/platform's legal and operational requirements.
 
 
+
 How it addresses the problem?
 The major problem is that agricultural products often pass through several intermediaries before reaching buyers. This can reduce the farmer's share of the final value while increasing the consumer's price.Our platform addresses this by creating a direct digital connection between farmers/FPOs and buyers.
 
@@ -122,6 +123,7 @@ Farmer communication problem → Direct farmer–FPO communication
 Crop monitoring problem → AI-assisted crop image analysis
 Documentation problem → Centralised verified documents
 Large number of farmer applications → Automated risk-based 
+
 
 
 Innovation and uniqueness of the solution
@@ -161,7 +163,9 @@ The biometric information should ideally remain handled by the user's device's s
 7) Cloud - AWS / Google Cloud / Microsoft Azure, Cloud database, Object storage, AI model deployment, Notification services
 
 
-Methodology and process for implementation 
+
+METHODOLOGY AND PROCESS FOR IMPLEMENTATION:
+
 <img width="1536" height="1024" alt="AI Agriculture workflow" src="https://github.com/user-attachments/assets/846881fb-98af-4bcc-81c3-c267a21f4495" />
 
 
@@ -177,6 +181,7 @@ Phase 3 - Logistics tracking and route optimisation
 Phase 4 - AI demand forecasting
 Phase 5 - AI crop monitoring
 This allows the project to start with a manageable MVP and progressively introduce advanced AI features.
+
 
 
 Potential challenges, risks and Strategies for overcoming them:
@@ -247,8 +252,8 @@ Benefits of the solution:
    
 
 ## Research and References
-https://agriwelfare.gov.in/
-https://www.global-agriculture.com/
-https://www.tnagrisnet.tn.gov.in/
-https://www.researchgate.net/
-https://www.sciencedirect.com/
+- https://agriwelfare.gov.in/
+- https://www.global-agriculture.com/
+- https://www.tnagrisnet.tn.gov.in/
+- https://www.researchgate.net/
+- https://www.sciencedirect.com/
